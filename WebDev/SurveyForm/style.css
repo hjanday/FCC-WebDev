@@ -3,9 +3,7 @@
 
 html{
  
-  background: #12c2e9;  
-  background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9); 
-  background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);   
+  background: white;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -28,7 +26,7 @@ html{
 
 #survey-form{
   text-align: center;
-  background: rgba(100,20,255, 0.2);
+  background: rgba(120, 100, 235, 0.5);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
